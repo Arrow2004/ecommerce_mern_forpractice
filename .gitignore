@@ -1,4 +1,4 @@
 back-end/node_modules/
-back-end/.env
+front-end/admin-app/node_modules
 back-end/package-lock.json
-front-end/node_modules/
+front-end/admin-app/package-lock.json
